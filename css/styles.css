@@ -1,0 +1,18 @@
+
+img {
+	max-width: 98%;
+	padding: 10px;
+	border: 1px double black;
+}
+
+.col-xs-6, .col-md-4, .col-lg-3 {
+	padding: 4px;
+}
+
+.col-md-3, .col-md-offset-3 {
+	padding: 4px;
+}
+
+.navbar-default {
+	background-color: #bcc1db;
+}
